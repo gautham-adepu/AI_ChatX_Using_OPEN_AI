@@ -1,7 +1,5 @@
-# chat-app
-Build a Chat App with NEW ChatGPT API | Full stack, React, Redux Toolkit, Node, OpenAI
 
-Video: https://www.youtube.com/watch?v=ffEDkqfIzxM
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+
+https://github.com/user-attachments/assets/4adf4967-6d31-4500-b7b5-5b7e7d7a6d92
 
